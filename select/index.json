@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "WESTraight",
+  "base_artist": "WEST.",
+  "createdAt": "2025-12-16T15:17:58.437324Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WESTraight",
+      "artist": "WEST.",
+      "has_synced": false,
+      "path": "select/pl_01_WESTraight_WEST..txt"
+    }
+  ]
+}
